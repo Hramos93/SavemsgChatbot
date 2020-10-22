@@ -1,0 +1,10 @@
+.env
+env
+__pycache__/
+.vscode
+credentials
+Retail-679ab540deb3.json
+.ipynb_checkpoints
+Untitled.ipynb
+
+
